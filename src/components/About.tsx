@@ -26,15 +26,9 @@ const About = () => {
               Sobre a Veda Consultoria
             </h2>
             <p className="text-muted mb-6">
-              A Veda Consultoria em Projetos Sociais é uma sociedade simples limitada, fundada em 2009 e dirigida por duas mulheres. Nossa atuação empresarial se baseia em anos de experiência em assessoria, consultoria, pesquisa e treinamentos, o campo das políticas para as mulheres e crianças e adolescentes.
-              Eu Rosimere de Souza, sou pernambucana e vivo no Rio de Janeiro desde criança. Aqui cresci e desenvolvi meus estudos e minha trajetória profissional. Sou graduada, mestre e doutora em Serviço Social pela PUC Rio. Casada há mais de 20 anos, gosto da vida em família, com os amigos, de viagens, de gatos, de plantas e de trabalhar.
-              Sou uma profissional com experiência de pesquisa e assessoria em políticas públicas, especialmente nas áreas de assistência social, direitos humanos, direitos da criança e do adolescente, política urbana e ambiental.
-              Minha trajetória profissional é marcada pelo compromisso com a qualificação da atuação de gestores, técnicos, conselheiros de políticas públicas e integrantes das organizações da sociedade civil, por meio de treinamento, palestras, cursos e oficinas de trabalho. Atuo como docente nos cursos no CAPACITA SUAS, nos cursos de Introdução ao Controle Social, Introdução à Vigilância Socioassistencial e Introdução à Elaboração de Planos Municipais da Assistência Social, na UNIASSELVI, de onde sou conteudista de temas sobre políticas sociais e serviço social. E no IBAM atuo como docente em temas relacionados às políticas de direitos da criança e do adolescente. Neste campo da formação venho atuado com mentoria para mulheres visando o fortalecimento da participação feminina na política e, no campo do empreendedorismo no sentido de contribuir para aumentar suas possibilidades de inclusão produtiva.
-              Como pesquisadora passei por diversos temas desde aqueles relacionados à política urbana (planos diretores e projetos de trabalho social), políticas sociais, políticas de segurança pública, além das políticas para mulheres e direitos da criança e do adolescente, com trabalhos publicados.
-              Além dessas expertises tenho habilidade para conceber e coordenar metodologias para o exercício coletivo de avaliação e planejamento de políticas públicas, organizações sociais e coletivos. Nesta direção durante anos me aperfeiçoei no trabalho de elaboração de projetos para captação de recursos junto a governos, organizações e fundos internacionais e fundos privados.
-              Meu trabalho se destaca pela capacidade de articular teoria e prática, promovendo soluções inovadoras e eficazes para o aprimoramento de políticas públicas.
-              Atendo a um público diversificado, abrangendo desde gestores e técnicos até comunidades em situação de vulnerabilidade, sempre com um olhar humanizado e um compromisso com a transformação social. Quer saber mais um pouco?
-
+              A Veda Consultoria em Projetos Sociais é uma sociedade simples limitada, fundada em 2009 e dirigida por duas mulheres.
+              Nossa atuação empresarial se baseia em anos de experiência em assessoria, consultoria, pesquisa e treinamentos, o campo das
+              políticas para as mulheres e crianças e adolescentes.
             </p>
             <div className="grid grid-cols-2 gap-6 mb-6">
 

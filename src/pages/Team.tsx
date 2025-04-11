@@ -64,21 +64,17 @@ const Team = () => {
                 <h3 className="text-xl font-semibold text-primary">Rosimere Souza</h3>
                 <p className="text-muted">Sócia Fundadora</p>
                 <p className="text-muted">
-                  Eu Rosimere de Souza
-
-                  Sou pernambucana e vivo no Rio de Janeiro desde criança. Aqui cresci e desenvolvi meus estudos e minha trajetória profissional de 35 anos de experiência. Sou graduada, mestre e doutora em Serviço Social pela PUC Rio. Casada há mais de 20 anos, gosto da vida em família, com os amigos, de viagens, de gatos, de plantas e de trabalhar.
-
-                  Sou uma profissional com ampla experiência na implementação, formação e gestão de políticas públicas, especialmente nas áreas de assistência social, direitos humanos e participação cidadã. Minha trajetória é marcada por um compromisso com a qualificação de gestores, técnicos e conselheiros, atuando como docente e coordenadora de cursos no CAPACITA SUAS e em iniciativas voltadas ao fortalecimento da participação feminina na política.
-
-                  Além da docência, possuo expertise na elaboração e coordenação de metodologias para planejamento estratégico, desenvolvimento comunitário e avaliação de políticas públicas. Atuei em projetos nacionais e internacionais, contribuindo para a estruturação e fortalecimento de conselhos de direitos, a proteção de crianças e adolescentes, e a mitigação dos impactos sociais de grandes empreendimentos.
-
-                  Meu trabalho se destaca pela capacidade de articular teoria e prática, promovendo soluções inovadoras e eficazes para o aprimoramento de políticas públicas. Atendo a um público diversificado, abrangendo desde gestores e técnicos até comunidades em situação de vulnerabilidade, sempre com um olhar humanizado e um compromisso com a transformação social.
-
-                  Quer saber mais um pouco?
+                  Eu Rosimere de Souza, sou pernambucana e vivo no Rio de Janeiro desde criança. Aqui cresci e desenvolvi meus estudos e minha trajetória profissional. Sou graduada, mestre e doutora em Serviço Social pela PUC Rio. Casada há mais de 20 anos, gosto da vida em família, com os amigos, de viagens, de gatos, de plantas e de trabalhar.
+                  Sou uma profissional com experiência de pesquisa e assessoria em políticas públicas, especialmente nas áreas de assistência social, direitos humanos, direitos da criança e do adolescente, política urbana e ambiental.
+                  Minha trajetória profissional é marcada pelo compromisso com a qualificação da atuação de gestores, técnicos, conselheiros de políticas públicas e integrantes das organizações da sociedade civil, por meio de treinamento, palestras, cursos e oficinas de trabalho. Atuo como docente nos cursos no CAPACITA SUAS, nos cursos de Introdução ao Controle Social, Introdução à Vigilância Socioassistencial e Introdução à Elaboração de Planos Municipais da Assistência Social, na UNIASSELVI, de onde sou conteudista de temas sobre políticas sociais e serviço social. E no IBAM atuo como docente em temas relacionados às políticas de direitos da criança e do adolescente. Neste campo da formação venho atuado com mentoria para mulheres visando o fortalecimento da participação feminina na política e, no campo do empreendedorismo no sentido de contribuir para aumentar suas possibilidades de inclusão produtiva.
+                  Como pesquisadora passei por diversos temas desde aqueles relacionados à política urbana (planos diretores e projetos de trabalho social), políticas sociais, políticas de segurança pública, além das políticas para mulheres e direitos da criança e do adolescente, com trabalhos publicados.
+                  Além dessas expertises tenho habilidade para conceber e coordenar metodologias para o exercício coletivo de avaliação e planejamento de políticas públicas, organizações sociais e coletivos. Nesta direção durante anos me aperfeiçoei no trabalho de elaboração de projetos para captação de recursos junto a governos, organizações e fundos internacionais e fundos privados.
+                  Meu trabalho se destaca pela capacidade de articular teoria e prática, promovendo soluções inovadoras e eficazes para o aprimoramento de políticas públicas.
+                  Atendo a um público diversificado, abrangendo desde gestores e técnicos até comunidades em situação de vulnerabilidade, sempre com um olhar humanizado e um compromisso com a transformação social. Quer saber mais um pouco?
                 </p>
                 <p className="text-muted">
                   <a href="http://lattes.cnpq.br/0808489822484696" target="_blank" rel="noopener noreferrer" className="text-accent hover:underline inline-flex items-center">
-                    Confira o Currículo Lattes 
+                    Confira o Currículo Lattes
                     <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 ml-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
                     </svg>
